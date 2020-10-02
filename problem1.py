@@ -1,6 +1,6 @@
 #! python3
-w = int(input("WIDTH\n"))
-h = int(input("HEIGHT\n"))
+w = int(input("Width\n"))
+h = int(input("Height\n"))
 for y in range(h):
     for x in range(w):
         print("*", end="")
