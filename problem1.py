@@ -1,7 +1,6 @@
 #! python3
-w = int(input("Width\n"))
-h = int(input("Height\n"))
-for y in range(h):
-    for x in range(w):
+n = int(input("numbrbe\n"))
+for y in range(n):
+    for x in range(n):
         print("*", end="")
     print("")
