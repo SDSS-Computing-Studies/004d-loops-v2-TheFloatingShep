@@ -1,6 +1,6 @@
 #! python3
 n = (input("NAME PLZ\n")).strip()
-p = ("Joe", "Joe2", "Joe3", "Ur mom lol", "Joe4")
+p = ("Lebron","Kobe","Michale","Shaq","Dennis")
 for x in p:
     if n == x:
         print("That name is on the list")
